@@ -4,3 +4,7 @@ docroot/output/*.xml
 *.db
 
 /docroot/csv/abstracts/*.csv
+/docroot/csv/abstracts/article_galleys/*.pdf
+/docroot/output/*
+.DS_Store
+**/.DS_Store
